@@ -5,7 +5,7 @@ My solutions to the labs and certification projects of the freeCodeCamp Python C
 ## Getting Started
 Run any file from the main folder:
 ```bash
-python <01-python-basics>/<file>.py
+python <folder>/<file>.py
 ```
 Example:
 ```bash
