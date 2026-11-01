@@ -9,8 +9,12 @@ python <01-python-basics>/<file>.py
 ```
 Example:
 ```bash
-python 01-python-basics/rpg_character.py
+python 01-python-basics/rpg_character_creator.py
 ```
 
 ## Labs and Projects
 ### 01 Python Basics
+- RPG Character Creator (Lab) - python 01-python-basics/rpg_character_creator.py
+
+## Status
+Work in progress (2026-11)
