@@ -14,7 +14,7 @@ python 01-python-basics/rpg_character_creator.py
 
 ## Labs and Projects
 ### 01 Python Basics
-- RPG Character Creator (Lab) - python 01-python-basics/rpg_character_creator.py
+- RPG Character Creator (Lab) - `01-python-basics/rpg_character_creator.py`
 
 ### 02 Loops and Sequences
 - Number Pattern Generator (Lab) – `02-loops-and-sequences/number_pattern_generator.py`
